@@ -59,21 +59,5 @@ After the command you should recieve the "Success" output
 pm list packages | grep NameOfPackage
 ```
 
-
-****TBD****
-
-Collection:
-
-Samsung Free
-com.samsung.android.app.spage
-Bixby
-package:com.samsung.android.app.settings.bixby
-package:com.samsung.android.bixby.agent
-package:com.samsung.android.bixby.wakeup
-package:com.samsung.android.bixbyvision.framework
-
-
-Sources:
-
-https://www.xda-developers.com/how-to-remove-bloatware-samsung-galaxy-s22/
+10.) You can find the list of the blotwares from here:
 https://r1.community.samsung.com/t5/others/how-to-remove-samsung-bloatware-without-root/td-p/5817510
