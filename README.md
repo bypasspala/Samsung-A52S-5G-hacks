@@ -1,5 +1,5 @@
 # Samsung-A52S-bloatware-remove
-Just some things to make the phone better and rid of some annoying bloatwares.
+Just some things to make your phone better and rid of some annoying bloatwares.
 
 
 1.) Download the latest ADB (Android Debug Bridge) from here: https://dl.google.com/android/repository/platform-tools-latest-windows.zip
