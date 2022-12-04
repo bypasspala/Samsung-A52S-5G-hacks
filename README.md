@@ -60,4 +60,5 @@ pm list packages | grep NameOfPackage
 ```
 
 10.) You can find the list of the blotwares from here:
+
 https://r1.community.samsung.com/t5/others/how-to-remove-samsung-bloatware-without-root/td-p/5817510
