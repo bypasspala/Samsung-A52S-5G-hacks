@@ -60,8 +60,12 @@ pm list packages | grep NameOfPackage
 ```
 
 
-https://www.xda-developers.com/how-to-remove-bloatware-samsung-galaxy-s22/
-
 Collection
 
 Samsung Free - com.samsung.android.app.spage
+
+
+
+Sources:
+
+https://www.xda-developers.com/how-to-remove-bloatware-samsung-galaxy-s22/
